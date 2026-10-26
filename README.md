@@ -44,3 +44,6 @@ The dataset (`mental_health_dataset.csv`, 50,000 synthetic records) is provided 
 ## Limitations
 
 Synthetic data, so results may not carry over to real populations. About 83% accuracy looks like the ceiling for these features, and Needs Attention is the hardest class to separate. Next steps: validate on real data, calibrate probabilities and check fairness across groups.
+
+
+© 2026 Opeyemi Precious Alalade. All rights reserved. For viewing and evaluation only.
