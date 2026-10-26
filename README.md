@@ -3,6 +3,7 @@
 DataLab Analytics final project. Machine learning models classify a person as **Healthy**, **Needs Attention** or **Critical** from demographic, occupational, psychological and lifestyle data, with a Streamlit prototype that shows class probabilities and the main factors behind each prediction.
 
 > This is a screening aid built on **synthetic data**. It does not replace clinical diagnosis or professional assessment.
+> App link: https://mental-health-risk-classification-ahnvaqj2jaqql9xejya25z.streamlit.app/ 
 
 ## Results (untouched 20% test set)
 
